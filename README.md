@@ -15,8 +15,8 @@ Use this plugin to clone an index.php file into all the directories of your Word
 2. Open a command prompt or terminal with admin privileges and navigate to where the script file is located using `cd` to change directories. 
 3. Run the command: `python clone-file.py` to start the script. 
 4. When prompted, enter the directory where the file you want to clone is located.
-5. When prompted, enter the directory where you want the file to be cloned. 
-6. When prompted, enter the file name with the extension (ie. `index.php`) that you want to clone. 
+5. When prompted, enter the file name with the extension (ie. `index.php`) that you want to clone. 
+6. When prompted, enter the directory where you want the file to be cloned. 
 
 Once you do that, the script will perform it's magic and notify you when the job has been completed. 
 
